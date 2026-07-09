@@ -1,8 +1,10 @@
-<!-- A dynamic, sleek animated header background that loads perfectly every time -->
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Jivesh%20Nazar&subtitle=Full-Stack%20Developer%20%7C%20ML%20Researcher&theme=tokyonight" width="100%"/>
 
-### 🚀 B.Tech Student in Electronics & Computer Engineering
-Entering my 3rd year at **Guru Nanak Dev University, Amritsar**, bridging high-performance software frameworks, data intelligence, and hardware ecosystems.
+## 🚀 About Me
+Entering my 3rd year pursuing a B.Tech in **Electronics & Computer Engineering** at **Guru Nanak Dev University, Amritsar**. I bridge the gap between high-performance software frameworks, data intelligence, and core hardware ecosystems.
+
+* 📊 **DSA Discipline:** Hacking and optimizing algorithmic problems daily in core languages.
+* 🔬 **ML Research:** Developing diagnostic systems using machine learning models.
+* 💡 **Open Source:** Actively contributing to production-grade engineering frameworks.
 
 ---
 
