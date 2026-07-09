@@ -1,11 +1,12 @@
-# Hey there! I'm Jivesh Nazar 
+<!-- A dynamic, sleek animated header background that loads perfectly every time -->
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Jivesh%20Nazar&subtitle=Full-Stack%20Developer%20%7C%20ML%20Researcher&theme=tokyonight" width="100%"/>
 
-###  B.Tech Student in Electronics & Computer Engineering | Full-Stack Developer | ML Researcher
+### 🚀 B.Tech Student in Electronics & Computer Engineering
 Entering my 3rd year at **Guru Nanak Dev University, Amritsar**, bridging high-performance software frameworks, data intelligence, and hardware ecosystems.
 
 ---
 
-##  Key Milestones & Achievements
+## 🏆 Key Milestones & Achievements
 *   **Research Author:** Authored and presented a research paper on *Early Diagnosis of Cardiovascular Diseases using Machine Learning Models*, accepted and presented at the **DIECAI International Conference**.
 *   **National Hackathon Finalist:** Placed in the **Top 10** at *Hacker Wrath*, a highly competitive national-level hackathon.
 *   **GDG Build Fest:** Ranked in the **Top 10** at the Google Developer Groups Build Fest.
@@ -32,19 +33,11 @@ Entering my 3rd year at **Guru Nanak Dev University, Amritsar**, bridging high-p
 
 ---
 
-##  Dynamic Performance Metrics
-
+## 📊 Git Metrics Dashboard
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Coder909-byte&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder909-byte&theme=tokyonight" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=Coder909-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=Coder909-byte&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+---
 
-
-
- **Let's connect:** Drop open an issue, look through my repositories, or check out my active open-source footprints!
+📫 **Let's connect:** Drop open an issue, look through my repositories, or check out my active open-source footprints!
