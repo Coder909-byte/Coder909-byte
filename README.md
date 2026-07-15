@@ -5,6 +5,7 @@ Entering my 3rd year pursuing a B.Tech in **Electronics & Computer Engineering**
 * 📊 **DSA Discipline:** Hacking and optimizing algorithmic problems daily in core languages.
 * 🔬 **ML Research:** Developing diagnostic systems using machine learning models.
 * 💡 **Open Source:** Actively contributing to production-grade engineering frameworks.
+* 💡 **3x hackathon finalist :** 
 
 ---
 
